@@ -1,4 +1,4 @@
-<h1>Hi, I'm Andrew! <br/><a href="https://github.com/Ash-Andrew"  <a href="https://www.linkedin.com/in/andrew-ashbaker-a2a954244/">
+<h1>Hi, I'm Andrew! Bachelor of Computer Science <br/><a href="https://github.com/Ash-Andrew"  <a href="https://www.linkedin.com/in/andrew-ashbaker-a2a954244/">
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
