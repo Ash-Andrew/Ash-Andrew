@@ -4,7 +4,7 @@
 
 - <b>Machine Learning(Python)</b>
   - [Spam Email Detection](https://github.com/Ash-Andrew/Spam-Email-Detection/tree/main/SpamDetection)
-- <b>Data Structures & Algorithms</b>
+- <b>Data Structures & Algorithms(Python)</b>
   - [Package Delivery Optimization](https://github.com/Ash-Andrew/Package-Delivery.git) <b>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
