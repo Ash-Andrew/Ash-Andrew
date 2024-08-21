@@ -7,7 +7,7 @@
 - <b>Data Structures & Algorithms(Python)</b>
   - [Package Delivery Optimization](https://github.com/Ash-Andrew/Package-Delivery.git) <b>
 - <b>Storefront (Java)</b>
-  - [Keyboard Storefront](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Keyboard Storefront](https://github.com/Ash-Andrew/Keyboard-Store-Page.git)
 - <b>Software Applications Using Cloud Services (Java, Multithreading, Docker)</b>
   - [Hotel Booking Webpage Deployment](https://github.com/Ash-Andrew/Software-Applications-Using-Cloud-Services)
 - <b>Python</b>
