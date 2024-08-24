@@ -1,4 +1,4 @@
-<h1>Hi, I'm Andrew! Bachelor of Computer Science</h1>
+<h1>Hi, I'm Andrew! </h1>
 <a href="https://github.com/Ash-Andrew">GitHub</a> | 
 <a href="https://www.linkedin.com/in/andrew-ashbaker-a2a954244/">LinkedIn</a>
 
