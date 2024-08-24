@@ -7,7 +7,7 @@
 - <b>PythonParcelRoutingApp</b>
   - [Package Delivery Optimization](https://github.com/Ash-Andrew/Package-Delivery.git) <b>
 - <b>JavaInventoryManager</b>
-- Developed a Java-based inventory management system using Spring and Thymeleaf.
+- - Developed a Java-based inventory management system using Spring and Thymeleaf.
 - Implemented functionalities to add, update, and manage in-house and outsourced parts.
 - Utilized Thymeleaf for dynamic form rendering and Spring Boot for backend processing.
 - Features include part and product management, form validation, and CRUD operations.)</b>
