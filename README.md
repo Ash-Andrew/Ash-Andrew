@@ -39,6 +39,20 @@
   - Integrated a robust search functionality allowing customers to filter and book travel packages based on preferences.
   - Ensured scalability and performance by optimizing database queries and implementing efficient caching mechanisms.
 
+- **PythonSpamDetector-Flask**
+  - Developed a Flask-based web application to detect spam emails using a machine learning model.
+  - Implemented text processing and classification using scikit-learn to differentiate between spam and ham emails.
+  - Created a user-friendly interface allowing users to input email content and receive instant classification results.
+  - Deployed the application using Flask, enabling real-time interaction and easy deployment on various platforms.
+  - **[View Project](https://github.com/Ash-Andrew/Spam-Email-Detection/tree/main/SpamDetection)**
+
+- **PythonParcelRoutingApp**
+  - Built an application that optimizes package delivery routes using the Nearest Neighbor algorithm.
+  - Designed a custom hash table to manage and store package data, improving retrieval and insertion efficiency.
+  - Developed a user interface using Tkinter to display real-time package status and delivery routes.
+  - Integrated CSV file handling to dynamically load and process package, distance, and address data.
+  - **[View Project](https://github.com/Ash-Andrew/Package-Delivery.git)**
+
 
 
 
