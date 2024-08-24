@@ -1,7 +1,27 @@
-<h1>Hi, I'm Andrew Ashbaker! </h1>
+<h1>Hello! 👋 I'm Andrew.</h1>
+
+<p>I'm a recent Computer Science graduate on a journey to deepen my expertise in coding and cybersecurity. My passion lies in understanding the intricacies of technology and applying that knowledge to build secure and efficient software solutions.</p>
+
+<h2>🔍 What Excites Me:</h2>
+<ul>
+  <li><b>Cybersecurity:</b> I’m fascinated by the challenge of protecting digital landscapes and am constantly learning new ways to enhance security.</li>
+  <li><b>Coding:</b> Writing clean, efficient code is my craft, and I love bringing ideas to life through programming.</li>
+  <li><b>Continuous Learning:</b> As a recent graduate, I’m committed to expanding my skills, exploring new technologies, and staying up-to-date with industry trends.</li>
+</ul>
+
+<h2>🚀 Current Focus:</h2>
+<ul>
+  <li>Enhancing my skills in Python and Java through hands-on projects.</li>
+  <li>Exploring the latest cybersecurity practices and tools.</li>
+  <li>Building a portfolio of work that showcases my dedication to learning and innovation.</li>
+</ul>
+
+<h2>🌟 Why I Code:</h2>
+<p>I believe in the power of technology to solve problems and make the world a better place. Every line of code is an opportunity to learn something new and contribute to the future of tech.</p>
+
 <a href="https://github.com/Ash-Andrew">GitHub</a> | 
 <a href="https://www.linkedin.com/in/andrew-ashbaker-a2a954244/">LinkedIn</a>
-<p>I'm a recent Computer Science graduate passionate about coding and cybersecurity. My GitHub showcases projects where I've applied my skills in Python, Java, and web development to solve real-world problems. I'm constantly learning, exploring new technologies, and building projects that reflect my love for software development and secure coding practices.</p>
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - **PythonSpamDetector-Flask**
