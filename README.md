@@ -22,6 +22,9 @@
 
 <a href="https://github.com/Ash-Andrew">GitHub</a> | 
 <a href="https://www.linkedin.com/in/andrew-ashbaker-a2a954244/">LinkedIn</a>
+<a href="mailto:andrewashbaker94@gmail.com">
+  <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail">
+</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
