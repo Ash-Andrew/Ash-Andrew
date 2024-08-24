@@ -12,28 +12,28 @@
   - Deployed the application using Flask, enabling real-time interaction and easy deployment on various platforms.
 
 - **PythonParcelRoutingApp**
-  - **[View Project](https://github.com/Ash-Andrew/Package-Delivery.git)**
+**[View Project](https://github.com/Ash-Andrew/Package-Delivery.git)**
   - Built an application that optimizes package delivery routes using the Nearest Neighbor algorithm.
   - Designed a custom hash table to manage and store package data, improving retrieval and insertion efficiency.
   - Developed a user interface using Tkinter to display real-time package status and delivery routes.
   - Integrated CSV file handling to dynamically load and process package, distance, and address data.
 
 - **JavaInventoryManager**
-  - **[View Project](https://github.com/Ash-Andrew/Keyboard-Store-Page.git)**
+**[View Project](https://github.com/Ash-Andrew/Keyboard-Store-Page.git)**
   - Developed a Java-based inventory management system using Spring and Thymeleaf.
   - Implemented functionalities to add, update, and manage in-house and outsourced parts, including form validation and CRUD operations.
   - Utilized Thymeleaf for dynamic form rendering and Spring Boot for backend processing, ensuring a smooth user experience.
   - Enhanced the system to handle real-time inventory updates, improving efficiency and accuracy in managing product data.
 
 - **JavaBookingSystem-Docker**
-  - **[View Project](https://github.com/Ash-Andrew/Software-Applications-Using-Cloud-Services)**
+**[View Project](https://github.com/Ash-Andrew/Software-Applications-Using-Cloud-Services)**
   - Developed a hotel booking application using Java and Spring Boot, with front-end integration using Bootstrap.
   - Containerized the application using Docker, simplifying deployment and scaling across different environments.
   - Implemented key features such as room availability checks, booking management, and customer notifications.
   - Enhanced the application's security by integrating authentication and authorization mechanisms.
 
 - **JavaTravelAgency**
-  - **[View Project](https://github.com/Ash-Andrew/Backend-Frameworks)**
+**[View Project](https://github.com/Ash-Andrew/Backend-Frameworks)**
   - Created a comprehensive booking system for a travel agency, utilizing Java and Spring MVC for the backend.
   - Developed RESTful APIs to manage travel packages, customer bookings, and payment processing.
   - Integrated a robust search functionality allowing customers to filter and book travel packages based on preferences.
