@@ -6,7 +6,7 @@
   - [Spam Detector](https://github.com/Ash-Andrew/Spam-Email-Detection/tree/main/SpamDetection)
 - <b>PythonParcelRoutingApp</b>
   - [Package Delivery Optimization](https://github.com/Ash-Andrew/Package-Delivery.git) <b>
-- <b>Storefront (Java)</b>
+- <b>JavaInventoryManager</b>
   - [Keyboard Storefront](https://github.com/Ash-Andrew/Keyboard-Store-Page.git)
 - <b>Software Applications Using Cloud Services (Java, Multithreading, Docker)</b>
   - [Hotel Booking Webpage Deployment](https://github.com/Ash-Andrew/Software-Applications-Using-Cloud-Services)
