@@ -21,7 +21,7 @@
 
 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/andrew-ashbaker-a2a954244/)
-[![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](mailto:your-email@gmail.com)
+[![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](mailto:andrewashbaker94@gmail.com)
 
 </div>
 
