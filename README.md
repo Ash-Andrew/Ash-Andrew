@@ -5,7 +5,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - **PythonSpamDetector-Flask**
-  - **[View Project](https://github.com/Ash-Andrew/Spam-Email-Detection/tree/main/SpamDetection)**
+**[View Project](https://github.com/Ash-Andrew/Spam-Email-Detection/tree/main/SpamDetection)**
   - Developed a Flask-based web application to detect spam emails using a machine learning model.
   - Implemented text processing and classification using scikit-learn to differentiate between spam and ham emails.
   - Created a user-friendly interface allowing users to input email content and receive instant classification results.
