@@ -21,13 +21,14 @@
 
 
 <p>
-<a href="https://www.linkedin.com/in/andrew-ashbaker-a2a954244/" style="margin-right: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="vertical-align:middle;" width="30px">
-</a> |
-<a href="mailto:your-email@gmail.com">
-  <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" style="vertical-align:middle;" width="30px">
+<a href="https://www.linkedin.com/in/andrew-ashbaker-a2a954244/" style="margin-right: 10px; display:inline-block;">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30px">
+</a> 
+<a href="mailto:your-email@gmail.com" style="display:inline-block;">
+  <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="30px">
 </a>
 </p>
+
 
 
 <h2>👨‍💻 Software Development Projects:</h2>
