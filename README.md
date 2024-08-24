@@ -4,7 +4,7 @@
 
 - <b> PythonSpamDetector-Flask</b>
   - [Spam Detector](https://github.com/Ash-Andrew/Spam-Email-Detection/tree/main/SpamDetection)
-- <b>Data Structures & Algorithms (Python)</b>
+- <b>PythonParcelRoutingApp</b>
   - [Package Delivery Optimization](https://github.com/Ash-Andrew/Package-Delivery.git) <b>
 - <b>Storefront (Java)</b>
   - [Keyboard Storefront](https://github.com/Ash-Andrew/Keyboard-Store-Page.git)
