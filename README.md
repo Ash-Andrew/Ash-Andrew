@@ -1,7 +1,7 @@
 <h1>Hi, I'm Andrew Ashbaker! </h1>
 <a href="https://github.com/Ash-Andrew">GitHub</a> | 
 <a href="https://www.linkedin.com/in/andrew-ashbaker-a2a954244/">LinkedIn</a>
-
+<p>I'm a recent Computer Science graduate passionate about coding and cybersecurity. My GitHub showcases projects where I've applied my skills in Python, Java, and web development to solve real-world problems. I'm constantly learning, exploring new technologies, and building projects that reflect my love for software development and secure coding practices.</p>
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - **PythonSpamDetector-Flask**
