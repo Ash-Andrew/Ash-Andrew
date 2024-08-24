@@ -1,6 +1,6 @@
 <h1>Hello! 👋 I'm Andrew.</h1>
 
-<p>I'm a recent Computer Science graduate on a journey to deepen my expertise in coding and cybersecurity. My passion lies in understanding the intricacies of technology and applying that knowledge to build secure and efficient software solutions.</p>
+<p>I'm a recent Computer Science graduate on a journey to deepen my expertise in coding and cybersecurity.</p>
 
 <h2>🔍 What Excites Me:</h2>
 <ul>
