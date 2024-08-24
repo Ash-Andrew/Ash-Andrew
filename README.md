@@ -8,7 +8,7 @@
   - [Package Delivery Optimization](https://github.com/Ash-Andrew/Package-Delivery.git) <b>
 - <b>JavaInventoryManager</b>
   - [Keyboard Storefront](https://github.com/Ash-Andrew/Keyboard-Store-Page.git)
-- <b>Software Applications Using Cloud Services (Java, Multithreading, Docker)</b>
+- <b>JavaBookingSystem-Docker</b>
   - [Hotel Booking Webpage Deployment](https://github.com/Ash-Andrew/Software-Applications-Using-Cloud-Services)
 - <b>Backend Frameworks (Java, Frameworks, Version Control)</b>
   - [Travel Agency Booking Website](https://github.com/Ash-Andrew/Backend-Frameworks)
