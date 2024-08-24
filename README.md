@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b> PythonSpamDetector-Flask</b>
-  - [Spam Email Detection](https://github.com/Ash-Andrew/Spam-Email-Detection/tree/main/SpamDetection)
+  - [Spam Detector](https://github.com/Ash-Andrew/Spam-Email-Detection/tree/main/SpamDetection)
 - <b>Data Structures & Algorithms (Python)</b>
   - [Package Delivery Optimization](https://github.com/Ash-Andrew/Package-Delivery.git) <b>
 - <b>Storefront (Java)</b>
