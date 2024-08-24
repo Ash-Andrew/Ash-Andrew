@@ -20,12 +20,15 @@
 <p>I believe in the power of technology to solve problems and make the world a better place. Every line of code is an opportunity to learn something new and contribute to the future of tech. My goal is not just to build software, but to create solutions that have a positive impact on people's lives—whether it's through enhancing security, protecting data, or making everyday tasks easier and safer. Coding allows me to play a role in safeguarding the digital world, ensuring that technology serves as a force for good and protects those who rely on it.</p>
 
 
-<a href="https://www.linkedin.com/in/andrew-ashbaker-a2a954244/">LinkedIn</a>
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn">
-</a> | 
-<a href="mailto:andrewashbaker94@gmail.com">
-  <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail">
+<p>
+<a href="https://www.linkedin.com/in/andrew-ashbaker-a2a954244/" style="margin-right: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="vertical-align:middle;" width="30px">
+</a> 
+<a href="mailto:your-email@gmail.com">
+  <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" style="vertical-align:middle;" width="30px">
 </a>
+</p>
+
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
